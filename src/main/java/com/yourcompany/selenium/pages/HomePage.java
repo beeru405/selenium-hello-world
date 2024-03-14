@@ -11,7 +11,7 @@ public class HomePage {
     }
 
     public void navigateToHelloWorldPage() {
-        driver.get("https://www.example.com"); // Replace with your Hello, World! webpage URL
+        driver.get("https://www.google.com"); // Replace with your Hello, World! webpage URL
     }
 
     public String getGreeting() {
